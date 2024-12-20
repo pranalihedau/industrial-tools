@@ -1,1 +1,3 @@
 THIS FILE IS IN WORKING AREA.
+this file is in staging area.
+this file is in committed area.
